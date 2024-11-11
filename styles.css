@@ -18,7 +18,7 @@ body{
     }
     
     .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgba(30, 238, 241, 0.621);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
